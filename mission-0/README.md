@@ -3,7 +3,7 @@
 
 [![Mission 0])
 
-`Arjan269`, `Learning-2-code-2.0`, `arjanp@missionreadyhq.com`, `mission-0`, `project_description`
+`Arjan269`, `repo_name: Learning-2-code-2.0`, `email: arjanp@missionreadyhq.com`, `project_title: mission-0`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
