@@ -1,0 +1,14 @@
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+  padding: 1rem;
+}
+
+.card-image {
+  background: #ccc;
+  height: 150px;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
